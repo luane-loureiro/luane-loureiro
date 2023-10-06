@@ -27,7 +27,7 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 [![Deviant art](https://img.shields.io/badge/-Deviantart-67136f?style=for-the-badge&logo=deviantart&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
 
 # Road Map
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=frontend%2Cfull-stack%2Cdevops)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=typescript%2Cfrontend%2Cangular%2Cfull-stack)](https://roadmap.sh)
 
 
 # Perfil Educacional
