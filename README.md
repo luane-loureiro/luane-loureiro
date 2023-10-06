@@ -33,10 +33,12 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 [![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=disqus&logoColor=563560&color=F3E7FA)](https://web.dio.me/users/luachan)
 
 # Estou Estudando:
-- Angular - DIO
-- AWS - Escola da Nuvem
-- Desenvolvimento de Jogos - Potencia Tec Ifood
-- 
+![Static Badge](https://img.shields.io/badge/Escola%20da%20nuvem-Fundamentos%20AWS-F3E7FA?style=for-the-badge&logo=amazoncloudwatch&logoColor=white&labelColor=BE86CF)
+
+![Static Badge](https://img.shields.io/badge/DIO-Angular-F3E7FA?style=for-the-badge&logo=disqus&logoColor=white&labelColor=BE86CF)
+
+![Static Badge](https://img.shields.io/badge/IFood-Potencia_Tec_Games-F3E7FA?style=for-the-badge&logo=ifood&logoColor=white&labelColor=BE86CF)
+
 
 # Skils em Tecnologia:
 
@@ -66,18 +68,19 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 
 
-
+<!------cores | clara - F3E7FA | media - BE86CF | escura - 563560| ----->
 
 
 
 # GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro&theme=github-dark-dimmed&locale=pt_BR&card_width=550&background=F3E7FA&border=BE86CF&ring=BE86CF&fire=563560&stroke=BE86CF&currStreakNum=563560&sideNums=563560&currStreakLabel=563560&sideLabels=563560&dates=563560&excludeDaysLabel=563560)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86CF&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro&hide_title=true&card_width=550&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86CF&theme=jolly)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=compact&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/dio-lab-open-source)
 
 
 <!--
