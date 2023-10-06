@@ -9,11 +9,6 @@ Atualmente tenho minha própria empresa com marca registrada no INPI, onde eu so
 Depois de anos a frente da minha empresa, busco novos desafios na área de Design, Games e tecnologia.</p>
 
 
-![descrição](https://img.shields.io/badge/Amante_das_artes,_desing_e_tecnologia,_estudei_na_escola_de_belas_artes_da_UFRJ_e_Dsenho_Industrial_na_Universidade_Estácio_de_Sá.-000?style=for-the-badge&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)
-![descrição](https://img.shields.io/badge/Atualmente_tenho_minha_própria_empresa_com_marca_registrada_no_INPI,_onde_eu_sou_responsavel_pelo_site_e_toda_a_parte_de_Design.-000?style=for-the-badge&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)
-![descrição](https://img.shields.io/badge/Depois_de_anos_a_frente_da_minha_empresa,_busco_novos_desafios_na_área_de_Games_e_tecnologia.-000?style=for-the-badge&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)  
-
-
 [![portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=www&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.art/portfolio)
 [![GitHub Page](https://img.shields.io/badge/Git_Hub-67136f?style=for-the-badge&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
 
