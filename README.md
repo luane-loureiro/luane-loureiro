@@ -3,10 +3,11 @@
 <img align="right" alt="Avatar Octocat" height="350" src="https://github.com/luane-loureiro/site-potfolio/blob/main/octocat-1696545643734.png">
 
 <!------cores | clara - F3E7FA | media - BE86CF | escura - 563560| ----->
-<p align="justify"> Amante das artes, desing e tecnologia, estudei na escola de belas artes da UFRJ e Dsenho industrial na universidade estácio de sá, com bolsa integral.<<
->> Atualmente tenho minha própria empresa com marca registrada no INPI, onde eu sou responsavel pelo site e toda a parte de Design.<<
->> Depois de anos a frente da minha empresa, busco novos desafios na área de Design, Games e tecnologia.<<
->>
+<p align="justify"> 
+Amante das artes, desing e tecnologia, estudei na escola de belas artes da UFRJ e Dsenho industrial na universidade estácio de sá, com bolsa integral.
+Atualmente tenho minha própria empresa com marca registrada no INPI, onde eu sou responsavel pelo site e toda a parte de Design.
+Depois de anos a frente da minha empresa, busco novos desafios na área de Design, Games e tecnologia.</p>
+
 
 ![descrição](https://img.shields.io/badge/Amante_das_artes,_desing_e_tecnologia,_estudei_na_escola_de_belas_artes_da_UFRJ_e_Dsenho_Industrial_na_Universidade_Estácio_de_Sá.-000?style=for-the-badge&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)
 ![descrição](https://img.shields.io/badge/Atualmente_tenho_minha_própria_empresa_com_marca_registrada_no_INPI,_onde_eu_sou_responsavel_pelo_site_e_toda_a_parte_de_Design.-000?style=for-the-badge&logoColor=BE86CF&color=F3E7FA&border_radius=5&border_color=BE86CF)
