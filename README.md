@@ -62,15 +62,8 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 ![Static Badge](https://img.shields.io/badge/ElGato-HD%2060s-F3E7FA?style=for-the-badge&logo=elgato&logoColor=white&labelColor=BE86CF)
 ![Static Badge](https://img.shields.io/badge/HyperX-Quad%20Cast%20S-F3E7FA?style=for-the-badge&logo=hyperx&logoColor=white&labelColor=BE86CF)
 
-
-
-
-
-
-
-<!------cores | clara - F3E7FA | media - BE86CF | escura - 563560| ----->
-
-
+# Road Map
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=frontend%2Cfull-stack%2Cdevops)](https://roadmap.sh)
 
 # GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro&theme=github-dark-dimmed&locale=pt_BR&card_width=550&background=F3E7FA&border=BE86CF&ring=BE86CF&fire=563560&stroke=BE86CF&currStreakNum=563560&sideNums=563560&currStreakLabel=563560&sideLabels=563560&dates=563560&excludeDaysLabel=563560)](https://git.io/streak-stats)
