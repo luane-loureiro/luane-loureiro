@@ -17,25 +17,56 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 
 
-# Redes Sociais
+# Minhas Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=563560&&color=F3E7FA)](https://www.linkedin.com/in/luane-loureiro/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=563560&color=F3E7FA)](https://www.instagram.com/lua.chan/)
-[![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=disqus&logoColor=563560&color=F3E7FA)](https://web.dio.me/users/luachan)
 [![behance](https://img.shields.io/badge/-Behance-000?style=for-the-badge&logo=behance&logoColor=563560&color=F3E7FA)](https://www.behance.net/luane-loureiro)
 [![portfólio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=protondrive&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.art/portfolio)
-[![GitHub Page](https://img.shields.io/badge/-Git_Hub-67136f?style=for-the-badge&logo=github&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
-[![GitHub Page](https://img.shields.io/badge/-Deviantart-67136f?style=for-the-badge&logo=deviantart&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
+[![GitHub](https://img.shields.io/badge/-Git_Hub-67136f?style=for-the-badge&logo=github&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
+[![Deviant art](https://img.shields.io/badge/-Deviantart-67136f?style=for-the-badge&logo=deviantart&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
 
 
-# Tecnologias
+# Perfil Educacional
+
+[![coursera](https://img.shields.io/badge/-Coursera-67136f?style=for-the-badge&logo=coursera&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://www.coursera.org/user/89e04f380cbfe01acfbf3360384264ba)
+[![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=disqus&logoColor=563560&color=F3E7FA)](https://web.dio.me/users/luachan)
+
+# Estou Estudando:
+- Angular - DIO
+- AWS - Escola da Nuvem
+- Desenvolvimento de Jogos - Potencia Tec Ifood
+- 
+
+# Skils em Tecnologia:
 
 <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/Photoshop-563560?logo=adobephotoshop&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge"> <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/Figma-563560?logo=figma&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
 <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/AWS-563560?logo=amazonaws&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge"> <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/HTML-563560?logo=html5&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
 <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/CSS-563560?logo=css3&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge"> <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-563560?logo=javascript&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
 <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/Angular-563560?logo=angular&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge"> <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/JQuery-563560?logo=jquery&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
 <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/C++-563560?logo=cplusplus&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge"> <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/Git-563560?logo=git&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
-<img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/PHP-563560?logo=php&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
+<img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/PHP-563560?logo=php&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge"> <img height="25" width="150" alt="Static Badge" src="https://img.shields.io/badge/Canva-563560?logo=canva&logoColor=563560&labelColor=F3E7FA&color=F3E7FA&text_size=15&style=for-the-badge">
+
+# Meu SetUp:
+
+![Static Badge](https://img.shields.io/badge/AMD-Razen%209-F3E7FA?style=for-the-badge&logo=amd&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Nvidia-GTX_1650-F3E7FA?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Corsair-Dominator%2032GB%20DDR4-F3E7FA?style=for-the-badge&logo=Corsair&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/KingStone-SSD%20250GB-F3E7FA?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/GigaByte-Aorus%20Elite%20X570s-F3E7FA?style=for-the-badge&logo=Aorus&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Galax-Mid%20Tower%20Andromeda-F3E7FA?style=for-the-badge&logo=hyperx&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Corsair-Fonte%20RGB%20CX750F-F3E7FA?style=for-the-badge&logo=corsair&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Cooler%20Master-Masterliquid%20ML360L-F3E7FA?style=for-the-badge&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/ElGato-HD%2060s-F3E7FA?style=for-the-badge&logo=elgato&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/HyperX-Quad%20Cast%20S-F3E7FA?style=for-the-badge&logo=hyperx&logoColor=white&labelColor=BE86CF)
+
+
+
+
+
+
+
+
 
 
 
@@ -45,6 +76,8 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=compact&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
 
 <!--
