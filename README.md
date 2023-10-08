@@ -11,7 +11,7 @@
 # Sobre Mim
 
 <p align="justify"> 
-Amante das artes, desing e tecnologia, estudei na escola de belas artes da UFRJ e Dsenho industrial na universidade estácio de sá, com bolsa integral.
+Amante das artes, design e tecnologia, estudei na escola de belas artes da UFRJ e Desenho industrial na universidade estácio de sá, com bolsa integral.
 Atualmente tenho minha própria empresa com marca registrada no INPI, onde eu sou responsavel pelo site e toda a parte de Design.
 Depois de anos a frente da minha empresa, busco novos desafios na área de Design, Games e tecnologia.</p>
 
