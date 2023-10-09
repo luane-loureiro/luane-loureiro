@@ -72,7 +72,7 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro&hide_title=true&card_width=550&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86CF&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=compact&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=donut&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86)
 
 # Repositórios
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/dio-lab-open-source)
