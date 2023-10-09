@@ -77,9 +77,9 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 # Repositórios
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/dio-lab-open-source)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LogicaDeProgramcao&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)]([https://github.com/luane-loureiro/LogicaDeProgramcao](https://github.com/luane-loureiro/LogicaDeProgramcao.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LogicaDeProgramcao&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/LogicaDeProgramcao)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=DIO---git-GitRub&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)]([https://github.com/luane-loureiro/DIO---git-GitRub](https://github.com/luane-loureiro/DIO---git-GitRub.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=DIO---git-GitRub&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/DIO---git-GitRub.git)
 
 <!--
 **luane-loureiro/luane-loureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
