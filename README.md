@@ -85,6 +85,8 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Exercicios-JQuery-Capgemini&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Exercicios-JQuery-Capgemini)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Exercicios-Fundamentos-HTML5-letscode&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Exercicios-Fundamentos-HTML5-letscode)
+
 
 <!--
 **luane-loureiro/luane-loureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
