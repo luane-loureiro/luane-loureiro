@@ -75,6 +75,9 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=donut&bg_color=F3E7FA&title_color=563560&text_color=563560&border_radius=5&border_color=BE86CF&icon_color=BE86)
 
 # Repositórios
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=certificados&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/certificados)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/dio-lab-open-source)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Exercicios-Logica-De-Programcao--Capgemini&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Exercicios-Logica-De-Programcao--Capgemini)
