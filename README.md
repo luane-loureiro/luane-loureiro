@@ -16,7 +16,6 @@ Atualmente tenho minha própria empresa com marca registrada no INPI, onde eu so
 Depois de anos a frente da minha empresa, busco novos desafios na área de Design, Games e tecnologia.</p>
 
 
-
 # Minhas Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=563560&&color=F3E7FA)](https://www.linkedin.com/in/luane-loureiro/)
@@ -25,6 +24,12 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 [![portfólio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=protondrive&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.art/portfolio)
 [![GitHub](https://img.shields.io/badge/-Git_Hub-67136f?style=for-the-badge&logo=github&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
 [![Deviant art](https://img.shields.io/badge/-Deviantart-67136f?style=for-the-badge&logo=deviantart&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://luane-loureiro.github.io/)
+
+# Certificações
+<img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/assets/100947092/d421e6f9-efdb-4ae7-82de-20afff31f6ad">
+<img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/assets/100947092/76327943-c707-460b-9a9c-90f9b530b9ae">
+<img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/assets/100947092/c7ce0e31-2688-4899-8f46-c455c0afdf9a">
+
 
 # Road Map
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=typescript%2Cfrontend%2Cangular%2Cfull-stack)](https://roadmap.sh)
@@ -36,7 +41,6 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 [![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=disqus&logoColor=563560&color=F3E7FA)](https://web.dio.me/users/luachan)
 
 # Estou Estudando:
-![Static Badge](https://img.shields.io/badge/Escola%20da%20nuvem-Fundamentos%20AWS-F3E7FA?style=for-the-badge&logo=amazoncloudwatch&logoColor=white&labelColor=BE86CF)
 
 ![Static Badge](https://img.shields.io/badge/DIO-Angular-F3E7FA?style=for-the-badge&logo=disqus&logoColor=white&labelColor=BE86CF)
 
