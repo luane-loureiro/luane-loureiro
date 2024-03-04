@@ -1,4 +1,4 @@
-<img align="right" alt="Banner lavander - Luane loureiro" height="100%" src="https://github.com/luane-loureiro/site-potfolio/blob/main/Design%20sem%20nome.gif">
+<img z-index ="3" align="right" alt="Banner lavander - Luane loureiro" height="100%" src="https://github.com/luane-loureiro/site-potfolio/blob/main/Design%20sem%20nome.gif">
 
 <p>.</p>
 
@@ -42,9 +42,9 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 # Estou Estudando:
 
-![Static Badge](https://img.shields.io/badge/DIO-Angular-F3E7FA?style=for-the-badge&logo=disqus&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Angular-F3E7FA?style=for-the-badge&logo=angular&logoColor=white&labelColor=BE86CF)
 
-![Static Badge](https://img.shields.io/badge/IFood-Potencia_Tec_Games-F3E7FA?style=for-the-badge&logo=ifood&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Formação_JavaScript_Developer-F3E7FA?style=for-the-badge&logo=javascript&logoColor=white&labelColor=BE86CF)
 
 
 # Skils em Tecnologia:
