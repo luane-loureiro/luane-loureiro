@@ -46,6 +46,8 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 ![Static Badge](https://img.shields.io/badge/Formação_JavaScript_Developer-F3E7FA?style=for-the-badge&logo=javascript&logoColor=white&labelColor=BE86CF)
 
+![Static Badge](https://img.shields.io/badge/microsoft_Azure-F3E7FA?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=BE86CF)
+
 
 # Skils em Tecnologia:
 
