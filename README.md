@@ -86,19 +86,19 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=js-developer-pokedex-main&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/js-developer-pokedex-main)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=formacao-java-script-developer-DIO&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/formacao-java-script-developer-DIO) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Piano-virtual&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Piano-virtual) 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=dio-lab-open-source&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Detona-Ralph-Game-V0.1&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Detona-Ralph-Game-V0.1)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Exercicios-Logica-De-Programcao--Capgemini&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Exercicios-Logica-De-Programcao--Capgemini)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Detona-Ralph-Game-V0.1&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Detona-Ralph-Game-V0.1 )
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=DIO---git-GitRub&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/DIO---git-GitRub)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=jogo-yugioh&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/jogo-yugioh)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=exercicio-javascript-letscode&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/exercicio-javascript-letscode)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Jogo-da-memoria-emoji&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Jogo-da-memoria-emoji)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Exercicios-JQuery-Capgemini&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Exercicios-JQuery-Capgemini)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Jogo_do_numero_secreto_2.0&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Jogo_do_numero_secreto_2.0)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Exercicios-Fundamentos-HTML5-letscode&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Exercicios-Fundamentos-HTML5-letscode)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=PrograMaria-DicionarioDeMulheresNegras&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/PrograMaria-DicionarioDeMulheresNegras)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Curso-Angular-DIO&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Curso-Angular-DIO)
 
