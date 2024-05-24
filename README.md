@@ -42,9 +42,9 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 # Estou Estudando:
 
-![Static Badge](https://img.shields.io/badge/Angular-F3E7FA?style=for-the-badge&logo=angular&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/Santander_Bootcamp_2024_-_Criando_Jogos_com_Godot-F3E7FA?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=BE86CF)
 
-![Static Badge](https://img.shields.io/badge/T6_one_Front_end-F3E7FA?style=for-the-badge&logo=oracle&logoColor=white&labelColor=BE86CF)
+![Static Badge](https://img.shields.io/badge/T6_one_React-F3E7FA?style=for-the-badge&logo=oracle&logoColor=white&labelColor=BE86CF)
 
 ![Static Badge](https://img.shields.io/badge/microsoft_Azure-F3E7FA?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=BE86CF)
 
