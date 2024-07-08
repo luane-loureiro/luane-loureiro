@@ -39,6 +39,7 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 [![coursera](https://img.shields.io/badge/-Coursera-67136f?style=for-the-badge&logo=coursera&logoColor=563560&color=F3E7FA&border_radius=5&border_color=BE86CF)](https://www.coursera.org/user/89e04f380cbfe01acfbf3360384264ba)
 [![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=disqus&logoColor=563560&color=F3E7FA)](https://web.dio.me/users/luachan)
+[![DIO](https://img.shields.io/badge/-Alura-000?style=for-the-badge&logo=alamy&logoColor=563560&color=F3E7FA)](https://cursos.alura.com.br/user/luane-loureiro)
 
 # Estou Estudando:
 
