@@ -49,6 +49,10 @@ Depois de anos a frente da minha empresa, busco novos desafios na área de Desig
 
 ![Static Badge](https://img.shields.io/badge/aws_-_Solutions_Architect_‒_Associate-F3E7FA?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=BE86CF)
 
+![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-F3E7FA?style=for-the-badge&logo=.net&logoColor=white&labelColor=BE86CF)
+
+XP Inc. - Full Stack Developer
+
 
 # Skils em Tecnologia:
 
