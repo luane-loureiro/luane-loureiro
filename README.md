@@ -104,6 +104,8 @@ pandas
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Curso-Angular-DIO&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/Curso-Angular-DIO)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Mundo Inbvertido&bg_color=F3E7FA&border_color=BE86CF&show_icons=true&icon_color=563560&title_color=563560&text_color=563560&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
+
 
 <!--
 **luane-loureiro/luane-loureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
