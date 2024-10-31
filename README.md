@@ -108,7 +108,7 @@ pandas
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Curso-Angular-DIO&bg_color=d5f2f8&border_color=96d9e7&show_icons=true&icon_color=4191a8&title_color=4191a8&text_color=4191a8&card_width=550)](https://github.com/luane-loureiro/Curso-Angular-DIO)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Mundo Inbvertido&bg_color=d5f2f8&border_color=96d9e7&show_icons=true&icon_color=4191a8&title_color=4191a8&text_color=4191a8&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LandingPage-Mundo-invertido&bg_color=d5f2f8&border_color=96d9e7&show_icons=true&icon_color=4191a8&title_color=4191a8&text_color=4191a8&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
 
 
 <!--
