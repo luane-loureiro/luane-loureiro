@@ -88,9 +88,11 @@ pandas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=donut&bg_color=d5f2f8&title_color=4191a8&text_color=4191a8&border_radius=5&border_color=96d9e7&icon_color=BE86)
 
-# Repositórios
-
+# Certificados
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=certificados&bg_color=d5f2f8&border_color=96d9e7&show_icons=true&icon_color=4191a8&title_color=4191a8&text_color=4191a8&card_width=550)](https://github.com/luane-loureiro/certificados)
+
+
+# Meus Projetos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=js-developer-pokedex-main&bg_color=d5f2f8&border_color=96d9e7&show_icons=true&icon_color=4191a8&title_color=4191a8&text_color=4191a8&card_width=550)](https://github.com/luane-loureiro/js-developer-pokedex-main)
 
