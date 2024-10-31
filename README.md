@@ -34,7 +34,7 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 
 # Road Map
-[![roadmap.sh](https://roadmap.sh/card/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=frontend%2Caws%2Creact%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=full-stack%2Cfrontend%2Caws%2Creact)](https://roadmap.sh)
 
 # Perfil Educacional
 
