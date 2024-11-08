@@ -48,11 +48,13 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 ![Static Badge](https://img.shields.io/badge/Godot_-_Santander_Bootcamp_2024-d5f2f8?style=for-the-badge&logo=godotengine&logoColor=black&labelColor=96d9e7)
 
-![Static Badge](https://img.shields.io/badge/Azure_-_Fundamentos_IA-d5f2f8?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=96d9e7)
+![Static Badge](https://img.shields.io/badge/AWS_-_Escola_da_nuvem_‒_Dev_IA-d5f2f8?style=for-the-badge&logo=amazonwebservices&logoColor=black&labelColor=96d9e7)
 
-![Static Badge](https://img.shields.io/badge/aws_-_Solutions_Architect_‒_Associate-d5f2f8?style=for-the-badge&logo=amazonwebservices&logoColor=black&labelColor=96d9e7)
+![Static Badge](https://img.shields.io/badge/AWS_-_Solutions_Architect_‒_Associate-d5f2f8?style=for-the-badge&logo=amazonwebservices&logoColor=black&labelColor=96d9e7)
 
-![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-d5f2f8?style=for-the-badge&logo=.net&logoColor=black&labelColor=96d9e7)
+![Static Badge](https://img.shields.io/badge/Angular_-_DIO_‒_Formação_Angular-d5f2f8?style=for-the-badge&logo=angular&logoColor=black&labelColor=96d9e7)
+
+![Static Badge](https://img.shields.io/badge/DIO_-_Campus_Expert_‒_Turma_10-d5f2f8?style=for-the-badge&logo=disqus&logoColor=black&labelColor=96d9e7)
 
 
 # Skils em Tecnologia:
