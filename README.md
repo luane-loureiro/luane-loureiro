@@ -83,11 +83,13 @@ pandas
 
 
 # GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro&theme=github-dark-dimmed&locale=pt_BR&card_width=550&background=d5f2f8&border=96d9e7&ring=96d9e7&fire=4191a8&stroke=96d9e7&currStreakNum=4191a8&sideNums=4191a8&currStreakLabel=4191a8&sideLabels=4191a8&dates=4191a8&excludeDaysLabel=4191a8)](https://git.io/streak-stats)
-
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro&hide_title=true&card_width=550&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=d5f2f8&title_color=4191a8&text_color=4191a8&border_radius=5&border_color=96d9e7&icon_color=96d9e7&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=donut&bg_color=d5f2f8&title_color=4191a8&text_color=4191a8&border_radius=5&border_color=96d9e7&icon_color=BE86)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luane-loureiro&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=350&border=4191A8&ring=4191A8&fire=96D9E7&currStreakNum=96D9E7&stroke=4191A8&sideNums=000000&currStreakLabel=4191A8&sideLabels=4191A8&dates=000000&excludeDaysLabel=4191A8&background=45%2CECFCFF%2C96D9E7&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
+
 
 # Certificados
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=certificados&bg_color=d5f2f8&border_color=96d9e7&show_icons=true&icon_color=4191a8&title_color=4191a8&text_color=4191a8&card_width=550)](https://github.com/luane-loureiro/certificados)
