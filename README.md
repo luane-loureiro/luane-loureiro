@@ -1,4 +1,4 @@
-<img z-index ="3" align="right" alt="Banner lavander - Luane loureiro" height="100%" src="/assets/banner.gif">
+<img z-index ="3" align="right" alt="Banner lavander - Luane loureiro" height="100%" src="/assets/banner3.gif">
 
 <p>.</p>
 
