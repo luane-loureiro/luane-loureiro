@@ -48,7 +48,6 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 ![Static Badge](https://img.shields.io/badge/Godot_-_Santander_Bootcamp_2024-1D3052?style=for-the-badge&logo=godotengine&logoColor=f9e6c6&labelColor=1B1E3E)
 
-<<<<<<< HEAD
 ![Static Badge](https://img.shields.io/badge/Azure_-_Fundamentos_IA-1D3052?style=for-the-badge&logo=microsoftazure&logoColor=f9e6c6&labelColor=1B1E3E)
 
 ![Static Badge](https://img.shields.io/badge/aws_-_Solutions_Architect_‒_Associate-1D3052?style=for-the-badge&logo=amazonwebservices&logoColor=f9e6c6&labelColor=1B1E3E)
