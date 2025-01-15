@@ -4,7 +4,7 @@
 
 <img align="right" alt="Avatar Octocat" height="350" src="/assets/octocat-1696545643734.png">
 
-<!------cores | clara - 1D3052 | media - 1B1E3E | escura - FAD493| #1D3052  ----->
+<!------cores | clara - #FAD493   | media - #1D3052  | escura - #1B1E3E  ----->
 
 <p align="left"> . </p>
 
@@ -44,13 +44,13 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 # Estou Estudando:
 
-![Static Badge](https://img.shields.io/badge/Estácio_-_Analise_e_Desenvolvimento_de_Sistemas-1D3052?style=for-the-badge&logo=&logoColor=FAD493&labelColor=1B1E3E)
+![Static Badge](https://img.shields.io/badge/Estácio_-_Analise_e_Desenvolvimento_de_Sistemas-1D3052?style=for-the-badge&logo=&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 
-![Static Badge](https://img.shields.io/badge/Godot_-_Santander_Bootcamp_2024-1D3052?style=for-the-badge&logo=godotengine&logoColor=FAD493&labelColor=1B1E3E)
+![Static Badge](https://img.shields.io/badge/Godot_-_Santander_Bootcamp_2024-1D3052?style=for-the-badge&logo=godotengine&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 
-![Static Badge](https://img.shields.io/badge/AWS_-_Solutions_Architect_‒_Associate-1D3052?style=for-the-badge&logo=amazonwebservices&logoColor=FAD493&labelColor=1B1E3E)
+![Static Badge](https://img.shields.io/badge/AWS_-_Solutions_Architect_‒_Associate-1D3052?style=for-the-badge&logo=amazonwebservices&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 
-![Static Badge](https://img.shields.io/badge/.net-_DIO_‒_Formação_.NET_Developer-1D3052?style=for-the-badge&logo=dotnet&logoColor=FAD493&labelColor=1B1E3E)
+![Static Badge](https://img.shields.io/badge/.net-_DIO_‒_Formação_.NET_Developer-1D3052?style=for-the-badge&logo=dotnet&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 
 
 
@@ -70,16 +70,16 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 # Meu SetUp:
 
-![Static Badge](https://img.shields.io/badge/AMD-Razen%209-1D3052?style=for-the-badge&logo=amd&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/Nvidia-GTX_1650-1D3052?style=for-the-badge&logo=nvidia&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/Corsair-Dominator%2032GB%20DDR4-1D3052?style=for-the-badge&logo=Corsair&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/KingStone-SSD%20250GB-1D3052?style=for-the-badge&logo=kingstontechnology&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/GigaByte-Aorus%20Elite%20X570s-1D3052?style=for-the-badge&logo=Aorus&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/Galax-Mid%20Tower%20Andromeda-1D3052?style=for-the-badge&logo=hyperx&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/Corsair-Fonte%20RGB%20CX750F-1D3052?style=for-the-badge&logo=corsair&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/Cooler%20Master-Masterliquid%20ML360L-1D3052?style=for-the-badge&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/ElGato-HD%2060s-1D3052?style=for-the-badge&logo=elgato&logoColor=FAD493&labelColor=1B1E3E)
-![Static Badge](https://img.shields.io/badge/HyperX-Quad%20Cast%20S-1D3052?style=for-the-badge&logo=hyperx&logoColor=FAD493&labelColor=1B1E3E)
+![Static Badge](https://img.shields.io/badge/AMD-Razen%209-1D3052?style=for-the-badge&logo=amd&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/Nvidia-GTX_1650-1D3052?style=for-the-badge&logo=nvidia&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/Corsair-Dominator%2032GB%20DDR4-1D3052?style=for-the-badge&logo=Corsair&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/KingStone-SSD%20250GB-1D3052?style=for-the-badge&logo=kingstontechnology&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/GigaByte-Aorus%20Elite%20X570s-1D3052?style=for-the-badge&logo=Aorus&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/Galax-Mid%20Tower%20Andromeda-1D3052?style=for-the-badge&logo=hyperx&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/Corsair-Fonte%20RGB%20CX750F-1D3052?style=for-the-badge&logo=corsair&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/Cooler%20Master-Masterliquid%20ML360L-1D3052?style=for-the-badge&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/ElGato-HD%2060s-1D3052?style=for-the-badge&logo=elgato&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
+![Static Badge](https://img.shields.io/badge/HyperX-Quad%20Cast%20S-1D3052?style=for-the-badge&logo=hyperx&logoColor=FAD493&labelColor=1B1E3E&color=FAD493)
 
 
 # GitHub Stats
