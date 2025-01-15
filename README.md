@@ -83,14 +83,11 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 
 # GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro&theme=github-dark-dimmed&locale=pt_BR&card_width=550&background=1D3052&border=1B1E3E&ring=1B1E3E&fire=FAD493&stroke=1B1E3E&currStreakNum=FAD493&sideNums=FAD493&currStreakLabel=FAD493&sideLabels=FAD493&dates=FAD493&excludeDaysLabel=FAD493)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=1D3052&background=1D3052&ring=FAB142&fire=FA6D5D&currStreakNum=FAD493&sideNums=FAD493&currStreakLabel=FAD493&sideLabels=FAD493&dates=FAD493&excludeDaysLabel=FAD493)
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro&hide_title=true&card_width=550&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1D3052&title_color=FAD493&text_color=FAD493&border_radius=5&border_color=1B1E3E&icon_color=1B1E3E&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=donut&bg_color=1D3052&title_color=FAD493&text_color=FAD493&border_radius=5&border_color=1B1E3E&icon_color=BE86)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luane-loureiro&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=350&border=4191A8&ring=4191A8&fire=96D9E7&currStreakNum=96D9E7&stroke=4191A8&sideNums=000000&currStreakLabel=4191A8&sideLabels=4191A8&dates=000000&excludeDaysLabel=4191A8&background=45%2CECFCFF%2C96D9E7&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
 
 
 # Certificados
@@ -98,6 +95,8 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 
 # Meus Projetos
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LandingPage-Mundo-invertido&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=js-developer-pokedex-main&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/js-developer-pokedex-main)
 
@@ -115,7 +114,7 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Curso-Angular-DIO&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/Curso-Angular-DIO)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LandingPage-Mundo-invertido&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
+
 
 
 <!--
