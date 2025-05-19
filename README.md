@@ -15,7 +15,7 @@ Desde os anos 2000, minha jornada com tecnologia começou de forma autodidata, i
 <p>
 Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras inteligencias artificiais,  vi que isso mudaria o futuro dessa área e motivaram a direcionar meu foco para o desenvolvimento tecnológico. Desde então, me apaixonei pela área de front end e decidi me aprofundar nesse campo dinâmico e criativo, e como desenvolvedora front-end, meu diferencial é a habilidade de unir conhecimentos das áreas de humanas e exatas, fruto da minha formação em Design, ilustração e Artes. </p>
 <p>Essa paixão me levou a explorar diversas oportunidades para desenvolver minhas habilidades técnicas, incluindo cursos gratuitos e a participação em bootcamps.</p>
-<p>Estudo Analise e desenvolvimento de Sistemas na Universidade Estácio de Sá, e trabalho como desenvolvedora Full Stack Jr na DevLand - powered by @ESX · Trainee</p>
+<p>Estudo Analise e desenvolvimento de Sistemas na Universidade Estácio de Sá, e ja trabalhei como desenvolvedora Full Stack treinee na DevLand - powered by @ESX ·</p>
 
 
 # Minhas Redes Sociais
