@@ -98,6 +98,8 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LandingPage-Mundo-invertido&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Universo-SpiderMan&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/Universo-SpiderMan)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=js-developer-pokedex-main&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/js-developer-pokedex-main)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=Piano-virtual&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/Piano-virtual) 
