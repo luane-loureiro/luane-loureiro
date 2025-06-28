@@ -95,6 +95,7 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 
 # Meus Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LuaPlay-Demo&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/LuaPlay-Demo)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luane-loureiro&repo=LandingPage-Mundo-invertido&bg_color=1D3052&border_color=1B1E3E&show_icons=true&icon_color=FAD493&title_color=FAD493&text_color=FAD493&card_width=550)](https://github.com/luane-loureiro/LandingPage-Mundo-invertido)
 
