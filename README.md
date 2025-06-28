@@ -80,6 +80,8 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 ![Static Badge](https://img.shields.io/badge/Cooler%20Master-Masterliquid%20ML360L-1D3052?style=for-the-badge&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 ![Static Badge](https://img.shields.io/badge/ElGato-HD%2060s-1D3052?style=for-the-badge&logo=elgato&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 ![Static Badge](https://img.shields.io/badge/HyperX-Quad%20Cast%20S-1D3052?style=for-the-badge&logo=hyperx&logoColor=FAD493&labelColor=1D3052&color=FAD493)
+![Static Badge](https://img.shields.io/badge/LG-Monitor%20Ultra%20Wide%2029-1D3052?style=for-the-badge&logo=lg&logoColor=FAD493&labelColor=1D3052&color=FAD493)
+![Static Badge](https://img.shields.io/badge/LogiTech-Teclado%20POP%20Keys%20Heartbreaker-1D3052?style=for-the-badge&logo=logitech&logoColor=FAD493&labelColor=1D3052&color=FAD493)
 
 
 # GitHub Stats
