@@ -32,7 +32,7 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 <img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/assets/100947092/d421e6f9-efdb-4ae7-82de-20afff31f6ad">
 <img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/assets/100947092/76327943-c707-460b-9a9c-90f9b530b9ae">
 <img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/assets/100947092/c7ce0e31-2688-4899-8f46-c455c0afdf9a">
-
+<img alt="" height="150" src="https://github.com/luane-loureiro/luane-loureiro/blob/84d6d28c36afdbfc0e0795ca12faa287f27472c1/assets/aws-partner-agentic-ai-essentials-training-badge.png">
 
 # Road Map
 [![roadmap.sh](https://roadmap.sh/card/wide/65032c813ee87ab4ca55652c?variant=light&roadmaps=full-stack%2Cfrontend%2Caws%2Creact)](https://roadmap.sh)
